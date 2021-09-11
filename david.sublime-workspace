@@ -1,0 +1,2718 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"darken",
+				"darken-3 "
+			],
+			[
+				"l",
+				"light-blue lighten-2 "
+			],
+			[
+				"gray",
+				"grey darken-4 "
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ppr",
+				"pprint"
+			],
+			[
+				"pp",
+				"pprint"
+			],
+			[
+				"to_",
+				"to_json"
+			],
+			[
+				"user_",
+				"user_info"
+			],
+			[
+				"auth",
+				"authenticated_user"
+			],
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"drive",
+				"driver_passport"
+			],
+			[
+				"class",
+				"class_model"
+			],
+			[
+				"ship",
+				"shipments"
+			],
+			[
+				"shipm",
+				"shipment_model"
+			],
+			[
+				"to",
+				"to_json"
+			],
+			[
+				"status",
+				"status_entity"
+			],
+			[
+				"get",
+				"get_json"
+			],
+			[
+				"Dere",
+				"DeregisterPlate"
+			],
+			[
+				"dereg",
+				"self_deregister_plate_model"
+			],
+			[
+				"quer",
+				"query_options"
+			],
+			[
+				"item",
+				"item_model"
+			],
+			[
+				"json_",
+				"json_normalize"
+			],
+			[
+				"address",
+				"address_entity"
+			],
+			[
+				"shpiment",
+				"shipment_query"
+			],
+			[
+				"para",
+				"param_docs"
+			],
+			[
+				"shipment",
+				"shipment_query"
+			],
+			[
+				"item_",
+				"item_entity"
+			],
+			[
+				"marsh",
+				"marshal_list_with"
+			],
+			[
+				"shipc",
+				"shipcloud_entry"
+			],
+			[
+				"user",
+				"user_addresses"
+			],
+			[
+				"from",
+				"from_municipality"
+			],
+			[
+				"get_",
+				"get_json"
+			],
+			[
+				"mun",
+				"municipality_address"
+			],
+			[
+				"carr",
+				"carrier_ups"
+			],
+			[
+				"pprin",
+				"pprint"
+			],
+			[
+				"addre",
+				"addresses"
+			],
+			[
+				"form",
+				"from_municipality"
+			],
+			[
+				"shipcl",
+				"shipcloud"
+			],
+			[
+				"shipcloud",
+				"shipcloud_order"
+			],
+			[
+				"PP",
+				"pprint"
+			],
+			[
+				"procedure",
+				"procedure_api"
+			],
+			[
+				"add",
+				"address_Jaques"
+			],
+			[
+				"root",
+				"root_relations"
+			],
+			[
+				"usr_",
+				"usr_addr"
+			],
+			[
+				"plat",
+				"plateFile"
+			],
+			[
+				"set_pla",
+				"set_place_order"
+			],
+			[
+				"set_de",
+				"set_deregistration"
+			],
+			[
+				"file",
+				"file_upload"
+			],
+			[
+				"operat",
+				"operation"
+			],
+			[
+				"find",
+				"find_element_by_id"
+			],
+			[
+				"Pa",
+				"Paderborn"
+			],
+			[
+				"ppri",
+				"pprint"
+			],
+			[
+				"filter",
+				"filter_maker_wrap"
+			],
+			[
+				"ret",
+				"return_std"
+			],
+			[
+				"plate",
+				"plateyellow"
+			],
+			[
+				"or",
+				"orderType"
+			],
+			[
+				"load",
+				"loading_quotes"
+			],
+			[
+				"loading",
+				"loading_quotes"
+			],
+			[
+				"loadi",
+				"loading_quotes"
+			],
+			[
+				"q",
+				"shipment_quotes"
+			],
+			[
+				"regi",
+				"registrations"
+			],
+			[
+				"map",
+				"mapActions"
+			],
+			[
+				"response",
+				"response_driver"
+			],
+			[
+				"add_",
+				"add_plate"
+			],
+			[
+				"response_",
+				"response_registration"
+			],
+			[
+				"met",
+				"method"
+			],
+			[
+				"btn",
+				"button"
+			],
+			[
+				"vue",
+				"vuex-map-fields"
+			],
+			[
+				"lo",
+				"loading_ship"
+			],
+			[
+				"a",
+				"authenticated_user"
+			],
+			[
+				"prop",
+				"property_match"
+			],
+			[
+				"if",
+				"ifmain"
+			],
+			[
+				"carrier",
+				"carrier_tracking_no"
+			],
+			[
+				"orde",
+				"order_item"
+			],
+			[
+				"wild",
+				"Wildcard"
+			],
+			[
+				"wil",
+				"wildcard_item"
+			],
+			[
+				"pro",
+				"processed_orders"
+			],
+			[
+				"O",
+				"ObjectIdString"
+			],
+			[
+				"order",
+				"order_item"
+			],
+			[
+				"muni",
+				"municipality"
+			],
+			[
+				"Te",
+				"template"
+			],
+			[
+				"place",
+				"place_order_yellow"
+			],
+			[
+				"yell",
+				"yellow_plate_order"
+			],
+			[
+				"ma",
+				"mapGetters"
+			],
+			[
+				"yello",
+				"yellow_plate_order"
+			],
+			[
+				"trea",
+				"translate_wrap"
+			],
+			[
+				"Obj",
+				"ObjectIdString"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"retu",
+				"return_doc"
+			],
+			[
+				"flask_",
+				"flask_restx"
+			],
+			[
+				"send_ye",
+				"send_yellow_plate_order"
+			],
+			[
+				"yellow_order",
+				"yellow_order_update"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pages/index.vue",
+			"settings":
+			{
+				"buffer_size": 4259,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "v-card"
+					},
+					"DgAAAJcDAAAAAAAAmAMAAAAAAAAAAAAAmAMAAAAAAACYAwAAAAAAAAMAAABkaXZKAAAAAAAAAEsAAAAAAAAAAAAAAEsAAAAAAAAASwAAAAAAAAADAAAAZGl2lgMAAAAAAACXAwAAAAAAAAAAAABLAAAAAAAAAEwAAAAAAAAAAAAAAJgDAAAAAAAAmQMAAAAAAAAAAAAATAAAAAAAAABNAAAAAAAAAAAAAACaAwAAAAAAAJsDAAAAAAAAAAAAAE0AAAAAAAAATgAAAAAAAAAAAAAAnAMAAAAAAACdAwAAAAAAAAAAAABOAAAAAAAAAE8AAAAAAAAAAAAAAJ4DAAAAAAAAnwMAAAAAAAAAAAAATwAAAAAAAABQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAACAAAATQAAAAAAAABKAAAAAAAAAAAAAAAAAPC/lwMAAAAAAACaAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"cut",
+					null,
+					"AQAAAA8CAAAAAAAADwIAAAAAAACzAAAAICAgICAgICA8IS0tIEVhY2ggZWxlbWVudCBmcm9tIGhlcmUgd2lsbCBiZSBkcmFnZ2FibGUgYW5kIGFuaW1hdGVkLiBOb3RlIDprZXkgaXMgdmVyeSBpbXBvcnRhbnQgaGVyZSB0byBiZSB1bmlxdWUgYm90aCBmb3IgZHJhZ2dhYmxlIGFuZCBhbmltYXRpb25zIHRvIGJlIHNtb290aCAmIGNvbnNpc3RlbnQuIC0tPgo",
+					"AQAAAAAAAAABAAAALwIAAAAAAAAvAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"cut",
+					null,
+					"AQAAAE4BAAAAAAAATgEAAAAAAABiAAAAICAgICAgPCEtLSBEcmFnZ2FibGUgY29tcG9uZW50IGNvbWVzIGZyb20gdnVlZHJhZ2dhYmxlLiBJdCBwcm92aWRlcyBkcmFnICYgZHJvcCBmdW5jdGlvbmFsaXR5IC0tPgo",
+					"AQAAAAAAAAABAAAAbAEAAAAAAABsAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"cut",
+					null,
+					"AQAAAEcCAAAAAAAARwIAAAAAAAAlAAAAICAgICAgICA8IS0tIDwvdHJhbnNpdGlvbi1ncm91cD4gLS0+Cg",
+					"AQAAAAAAAAABAAAAYQIAAAAAAABhAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "container"
+					},
+					"FAAAAG4CAAAAAAAAbwIAAAAAAAAAAAAAbwIAAAAAAABvAgAAAAAAAAYAAABsYXlvdXQ9AAAAAAAAAD4AAAAAAAAAAAAAAD4AAAAAAAAAPgAAAAAAAAAGAAAAbGF5b3V0agIAAAAAAABrAgAAAAAAAAAAAAA+AAAAAAAAAD8AAAAAAAAAAAAAAGwCAAAAAAAAbQIAAAAAAAAAAAAAPwAAAAAAAABAAAAAAAAAAAAAAABuAgAAAAAAAG8CAAAAAAAAAAAAAEAAAAAAAAAAQQAAAAAAAAAAAAAAcAIAAAAAAABxAgAAAAAAAAAAAABBAAAAAAAAAEIAAAAAAAAAAAAAAHICAAAAAAAAcwIAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAAB0AgAAAAAAAHUCAAAAAAAAAAAAAEMAAAAAAAAARAAAAAAAAAAAAAAAdgIAAAAAAAB3AgAAAAAAAAAAAABEAAAAAAAAAEUAAAAAAAAAAAAAAHgCAAAAAAAAeQIAAAAAAAAAAAAARQAAAAAAAABGAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAACAAAAQwAAAAAAAAA9AAAAAAAAAAAAAAAAAPC/bgIAAAAAAAB0AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": " fluid"
+					},
+					"BgAAAEYAAAAAAAAARwAAAAAAAAAAAAAARwAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEkAAAAAAAAAAAAAAEkAAAAAAAAASgAAAAAAAAAAAAAASgAAAAAAAABLAAAAAAAAAAAAAABLAAAAAAAAAEwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARgAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "\n<v-c"
+					},
+					"BwAAAE0AAAAAAAAATgAAAAAAAAAAAAAATgAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFIAAAAAAAAAAAAAAFIAAAAAAAAAUwAAAAAAAAAAAAAAUwAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFUAAAAAAAAAAAAAAFUAAAAAAAAAVgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATQAAAAAAAABNAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFUAAAAAAAAAVQAAAAAAAAABAAAAYw",
+					"AQAAAAAAAAABAAAAVgAAAAAAAABWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": "layout><"
+					},
+					"CAAAAFUAAAAAAAAAVgAAAAAAAAAAAAAAVgAAAAAAAABXAAAAAAAAAAAAAABXAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAWQAAAAAAAAAAAAAAWQAAAAAAAABaAAAAAAAAAAAAAABaAAAAAAAAAFsAAAAAAAAAAAAAAFsAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABdAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVQAAAAAAAABVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"close_tag",
+					{
+						"insert_slash": true
+					},
+					"AQAAAF0AAAAAAAAAZwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXQAAAAAAAABdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"cut",
+					null,
+					"AQAAAFwAAAAAAAAAXAAAAAAAAAALAAAAPC92LWxheW91dD4",
+					"AQAAAAAAAAABAAAAZwAAAAAAAABcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAH8CAAAAAAAAgAIAAAAAAAAAAAAAgAIAAAAAAACEAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfwIAAAAAAAB/AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"paste",
+					null,
+					"AQAAAIQCAAAAAAAAjwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhAIAAAAAAACEAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAADmEAAAPHRlbXBsYXRlPgogIDwhLS0gPG51eHQtY29udGVudCA6ZG9jdW1lbnQ9InBhZ2UiIC8+IC0tPgogIDx2LWNvbnRhaW5lciBmbHVpZD4KICAgIDx2LWxheW91dD4KICAgIDx2LWNhcmQKICAgICAgdi1mb3I9ImNvbHVtbiBpbiBjb2x1bW5zIgogICAgICA6a2V5PSJjb2x1bW4udGl0bGUiCiAgICAgIGNsYXNzPSJiZy1ncmF5LTEwMCByb3VuZGVkLWxnIHB4LTMgcHktMyBjb2x1bW4td2lkdGggcm91bmRlZCBtci00IgogICAgPgogICAgICA8cCBjbGFzcz0idGV4dC1ncmF5LTcwMCBmb250LXNlbWlib2xkIGZvbnQtc2FucyB0cmFja2luZy13aWRlIHRleHQtc20iPgogICAgICAgIHt7IGNvbHVtbi50aXRsZSB9fQogICAgICA8L3A+CiAgICAgIDxkcmFnZ2FibGUgOmxpc3Q9ImNvbHVtbi50YXNrcyIgOmFuaW1hdGlvbj0iMjAwIiBnaG9zdC1jbGFzcz0iZ2hvc3QtY2FyZCIgZ3JvdXA9InRhc2tzIj4KICAgICAgICA8dGFzay1jYXJkCiAgICAgICAgICB2LWZvcj0iKHRhc2spIGluIGNvbHVtbi50YXNrcyIKICAgICAgICAgIDprZXk9InRhc2suaWQiCiAgICAgICAgICA6dGFzaz0idGFzayIKICAgICAgICAgIGNsYXNzPSJtdC0zIGN1cnNvci1tb3ZlIgogICAgICAgIC8+CiAgICAgIDwvZHJhZ2dhYmxlPgogICAgPC92LWNhcmQ+CiAgICA8L3YtbGF5b3V0PgogIDwvdi1jb250YWluZXI+CjwvdGVtcGxhdGU+CjxzY3JpcHQ+CmltcG9ydCBkcmFnZ2FibGUgZnJvbSAndnVlZHJhZ2dhYmxlJwppbXBvcnQgVGFza0NhcmQgZnJvbSAnfi9jb21wb25lbnRzL1Rhc2tDYXJkLnZ1ZScKCmV4cG9ydCBkZWZhdWx0IHsKICBjb21wb25lbnRzOiB7CiAgICAvLyBkcmFnZ2FibGUKICAgIFRhc2tDYXJkLAogICAgZHJhZ2dhYmxlCiAgfSwKCiAgYXN5bmMgYXN5bmNEYXRhICh7ICRjb250ZW50IH0pIHsKICAgIGNvbnN0IHBhZ2UgPSBhd2FpdCAkY29udGVudCgnaGVsbG8nKS5mZXRjaCgpCgogICAgcmV0dXJuIHsKICAgICAgcGFnZQogICAgfQogIH0sCgogIGRhdGEgKCkgewogICAgcmV0dXJuIHsKICAgICAgY29sdW1uczogWwogICAgICAgIHsKICAgICAgICAgIHRpdGxlOiAnQmFja2xvZycsCiAgICAgICAgICB0YXNrczogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgaWQ6IDEsCiAgICAgICAgICAgICAgdGl0bGU6ICdBZGQgZGlzY291bnQgY29kZSB0byBjaGVja291dCBwYWdlJywKICAgICAgICAgICAgICBkYXRlOiAnU2VwIDE0JywKICAgICAgICAgICAgICB0eXBlOiAnRmVhdHVyZSBSZXF1ZXN0JwogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgaWQ6IDIsCiAgICAgICAgICAgICAgdGl0bGU6ICdQcm92aWRlIGRvY3VtZW50YXRpb24gb24gaW50ZWdyYXRpb25zJywKICAgICAgICAgICAgICBkYXRlOiAnU2VwIDEyJwogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgaWQ6IDMsCiAgICAgICAgICAgICAgdGl0bGU6ICdEZXNpZ24gc2hvcHBpbmcgY2FydCBkcm9wZG93bicsCiAgICAgICAgICAgICAgZGF0ZTogJ1NlcCA5JywKICAgICAgICAgICAgICB0eXBlOiAnRGVzaWduJwogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgaWQ6IDQsCiAgICAgICAgICAgICAgdGl0bGU6ICdBZGQgZGlzY291bnQgY29kZSB0byBjaGVja291dCBwYWdlJywKICAgICAgICAgICAgICBkYXRlOiAnU2VwIDE0JywKICAgICAgICAgICAgICB0eXBlOiAnRmVhdHVyZSBSZXF1ZXN0JwogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgaWQ6IDUsCiAgICAgICAgICAgICAgdGl0bGU6ICdUZXN0IGNoZWNrb3V0IGZsb3cnLAogICAgICAgICAgICAgIGRhdGU6ICdTZXAgMTUnLAogICAgICAgICAgICAgIHR5cGU6ICdRQScKICAgICAgICAgICAgfQogICAgICAgICAgXQogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgdGl0bGU6ICdJbiBQcm9ncmVzcycsCiAgICAgICAgICB0YXNrczogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgaWQ6IDYsCiAgICAgICAgICAgICAgdGl0bGU6ICdEZXNpZ24gc2hvcHBpbmcgY2FydCBkcm9wZG93bicsCiAgICAgICAgICAgICAgZGF0ZTogJ1NlcCA5JywKICAgICAgICAgICAgICB0eXBlOiAnRGVzaWduJwogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgaWQ6IDcsCiAgICAgICAgICAgICAgdGl0bGU6ICdBZGQgZGlzY291bnQgY29kZSB0byBjaGVja291dCBwYWdlJywKICAgICAgICAgICAgICBkYXRlOiAnU2VwIDE0JywKICAgICAgICAgICAgICB0eXBlOiAnRmVhdHVyZSBSZXF1ZXN0JwogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgaWQ6IDgsCiAgICAgICAgICAgICAgdGl0bGU6ICdQcm92aWRlIGRvY3VtZW50YXRpb24gb24gaW50ZWdyYXRpb25zJywKICAgICAgICAgICAgICBkYXRlOiAnU2VwIDEyJywKICAgICAgICAgICAgICB0eXBlOiAnQmFja2VuZCcKICAgICAgICAgICAgfQogICAgICAgICAgXQogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgdGl0bGU6ICdSZXZpZXcnLAogICAgICAgICAgdGFza3M6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgIGlkOiA5LAogICAgICAgICAgICAgIHRpdGxlOiAnUHJvdmlkZSBkb2N1bWVudGF0aW9uIG9uIGludGVncmF0aW9ucycsCiAgICAgICAgICAgICAgZGF0ZTogJ1NlcCAxMicKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgIGlkOiAxMCwKICAgICAgICAgICAgICB0aXRsZTogJ0Rlc2lnbiBzaG9wcGluZyBjYXJ0IGRyb3Bkb3duJywKICAgICAgICAgICAgICBkYXRlOiAnU2VwIDknLAogICAgICAgICAgICAgIHR5cGU6ICdEZXNpZ24nCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBpZDogMTEsCiAgICAgICAgICAgICAgdGl0bGU6ICdBZGQgZGlzY291bnQgY29kZSB0byBjaGVja291dCBwYWdlJywKICAgICAgICAgICAgICBkYXRlOiAnU2VwIDE0JywKICAgICAgICAgICAgICB0eXBlOiAnRmVhdHVyZSBSZXF1ZXN0JwogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgaWQ6IDEyLAogICAgICAgICAgICAgIHRpdGxlOiAnRGVzaWduIHNob3BwaW5nIGNhcnQgZHJvcGRvd24nLAogICAgICAgICAgICAgIGRhdGU6ICdTZXAgOScsCiAgICAgICAgICAgICAgdHlwZTogJ0Rlc2lnbicKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgIGlkOiAxMywKICAgICAgICAgICAgICB0aXRsZTogJ0FkZCBkaXNjb3VudCBjb2RlIHRvIGNoZWNrb3V0IHBhZ2UnLAogICAgICAgICAgICAgIGRhdGU6ICdTZXAgMTQnLAogICAgICAgICAgICAgIHR5cGU6ICdGZWF0dXJlIFJlcXVlc3QnCiAgICAgICAgICAgIH0KICAgICAgICAgIF0KICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgIHRpdGxlOiAnRG9uZScsCiAgICAgICAgICB0YXNrczogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgaWQ6IDE0LAogICAgICAgICAgICAgIHRpdGxlOiAnQWRkIGRpc2NvdW50IGNvZGUgdG8gY2hlY2tvdXQgcGFnZScsCiAgICAgICAgICAgICAgZGF0ZTogJ1NlcCAxNCcsCiAgICAgICAgICAgICAgdHlwZTogJ0ZlYXR1cmUgUmVxdWVzdCcKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgIGlkOiAxNSwKICAgICAgICAgICAgICB0aXRsZTogJ0Rlc2lnbiBzaG9wcGluZyBjYXJ0IGRyb3Bkb3duJywKICAgICAgICAgICAgICBkYXRlOiAnU2VwIDknLAogICAgICAgICAgICAgIHR5cGU6ICdEZXNpZ24nCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBpZDogMTYsCiAgICAgICAgICAgICAgdGl0bGU6ICdBZGQgZGlzY291bnQgY29kZSB0byBjaGVja291dCBwYWdlJywKICAgICAgICAgICAgICBkYXRlOiAnU2VwIDE0JywKICAgICAgICAgICAgICB0eXBlOiAnRmVhdHVyZSBSZXF1ZXN0JwogICAgICAgICAgICB9CiAgICAgICAgICBdCiAgICAgICAgfQogICAgICBdCiAgICB9CiAgfQp9Cjwvc2NyaXB0Pgo8c3R5bGUgc2NvcGVkPgouY29sdW1uLXdpZHRoIHsKICBtaW4td2lkdGg6IDMyMHB4OwogIHdpZHRoOiAzMjBweDsKfQovKiBVbmZvcnR1bmF0ZWx5IEBhcHBseSBjYW5ub3QgYmUgc2V0dXAgaW4gY29kZXNhbmRib3gsCmJ1dCB5b3UnZCB1c2UgIkBhcHBseSBib3JkZXIgb3BhY2l0eS01MCBib3JkZXItYmx1ZS01MDAgYmctZ3JheS0yMDAiIGhlcmUgKi8KLmdob3N0LWNhcmQgewogIG9wYWNpdHk6IDAuNTsKICBiYWNrZ3JvdW5kOiAjRjdGQUZDOwogIGJvcmRlcjogMXB4IHNvbGlkICM0Mjk5ZTE7Cn0KPC9zdHlsZT4KAAAAAAAAAAAIEQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjwIAAAAAAACPAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": "color"
+					},
+					"BgAAALEAAAAAAAAAsgAAAAAAAAAAAAAAsgAAAAAAAACyAAAAAAAAAAUAAABjbGFzc7IAAAAAAAAAswAAAAAAAAAAAAAAswAAAAAAAAC0AAAAAAAAAAAAAAC0AAAAAAAAALUAAAAAAAAAAAAAALUAAAAAAAAAtgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsQAAAAAAAAC2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"left_delete",
+					null,
+					"AQAAALgAAAAAAAAAuAAAAAAAAAAMAAAAYmctZ3JheS0xMDAg",
+					"AQAAAAAAAAABAAAAuAAAAAAAAADEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					76,
+					1,
+					"insert",
+					{
+						"characters": "class"
+					},
+					"BgAAALEAAAAAAAAAsgAAAAAAAAAAAAAAsgAAAAAAAACyAAAAAAAAAAUAAABjb2xvcrIAAAAAAAAAswAAAAAAAAAAAAAAswAAAAAAAAC0AAAAAAAAAAAAAAC0AAAAAAAAALUAAAAAAAAAAAAAALUAAAAAAAAAtgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsQAAAAAAAAC2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					99,
+					1,
+					"insert",
+					{
+						"characters": "\ncolor="
+					},
+					"CAAAAOcAAAAAAAAA6AAAAAAAAAAAAAAA6AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPEAAAAAAAAAAAAAAPEAAAAAAAAA8gAAAAAAAAAAAAAA8gAAAAAAAADzAAAAAAAAAAAAAADzAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAAA9QAAAAAAAAAAAAAA9QAAAAAAAAD2AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5wAAAAAAAADnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					100,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAPYAAAAAAAAA+AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9gAAAAAAAAD2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					101,
+					1,
+					"insert",
+					{
+						"characters": "gray"
+					},
+					"BAAAAPcAAAAAAAAA+AAAAAAAAAAAAAAA+AAAAAAAAAD5AAAAAAAAAAAAAAD5AAAAAAAAAPoAAAAAAAAAAAAAAPoAAAAAAAAA+wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9wAAAAAAAAD3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					105,
+					1,
+					"insert",
+					{
+						"characters": "blue"
+					},
+					"BQAAAPcAAAAAAAAA+AAAAAAAAAAAAAAA+AAAAAAAAAD4AAAAAAAAAAQAAABncmF5+AAAAAAAAAD5AAAAAAAAAAAAAAD5AAAAAAAAAPoAAAAAAAAAAAAAAPoAAAAAAAAA+wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+wAAAAAAAAD3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					109,
+					1,
+					"insert",
+					{
+						"characters": "gray-"
+					},
+					"BgAAAPcAAAAAAAAA+AAAAAAAAAAAAAAA+AAAAAAAAAD4AAAAAAAAAAQAAABibHVl+AAAAAAAAAD5AAAAAAAAAAAAAAD5AAAAAAAAAPoAAAAAAAAAAAAAAPoAAAAAAAAA+wAAAAAAAAAAAAAA+wAAAAAAAAD8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+wAAAAAAAAD3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					110,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPsAAAAAAAAA+wAAAAAAAAABAAAALQ",
+					"AQAAAAAAAAABAAAA/AAAAAAAAAD8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					115,
+					1,
+					"insert_completion",
+					{
+						"completion": "grey darken-4",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "grey darken-4 "
+					},
+					"AgAAAPcAAAAAAAAA9wAAAAAAAAAEAAAAZ3JhefcAAAAAAAAABAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+wAAAAAAAAD7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					118,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAMBAAAAAAAAAwEAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAABAEAAAAAAAAEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					119,
+					1,
+					"insert",
+					{
+						"characters": "3"
+					},
+					"AQAAAAMBAAAAAAAABAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwEAAAAAAAADAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					122,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAMBAAAAAAAAAwEAAAAAAAABAAAAMw",
+					"AQAAAAAAAAABAAAABAEAAAAAAAAEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					123,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AQAAAAMBAAAAAAAABAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwEAAAAAAAADAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					126,
+					6,
+					"left_delete",
+					null,
+					"BgAAAAMBAAAAAAAAAwEAAAAAAAABAAAAMQIBAAAAAAAAAgEAAAAAAAABAAAALQEBAAAAAAAAAQEAAAAAAAABAAAAbgABAAAAAAAAAAEAAAAAAAABAAAAZf8AAAAAAAAA/wAAAAAAAAABAAAAa/4AAAAAAAAA/gAAAAAAAAABAAAAcg",
+					"AQAAAAAAAAABAAAABAEAAAAAAAAEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					127,
+					1,
+					"insert",
+					{
+						"characters": "rken"
+					},
+					"BAAAAP4AAAAAAAAA/wAAAAAAAAAAAAAA/wAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAEBAAAAAAAAAAAAAAEBAAAAAAAAAgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/gAAAAAAAAD+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					131,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPwAAAAAAAAA/AAAAAAAAAAGAAAAZGFya2Vu",
+					"AQAAAAAAAAABAAAAAgEAAAAAAAD8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					134,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPsAAAAAAAAA+wAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA/AAAAAAAAAD8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					137,
+					1,
+					"insert",
+					{
+						"characters": " l"
+					},
+					"AgAAAPsAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAD9AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+wAAAAAAAAD7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					144,
+					1,
+					"insert_completion",
+					{
+						"completion": "light-blue lighten-2",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "light-blue lighten-2 "
+					},
+					"AgAAAPwAAAAAAAAA/AAAAAAAAAABAAAAbPwAAAAAAAAAEAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/QAAAAAAAAD9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					147,
+					1,
+					"left_delete",
+					null,
+					"AQAAAA8BAAAAAAAADwEAAAAAAAABAAAAMg",
+					"AQAAAAAAAAABAAAAEAEAAAAAAAAQAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					148,
+					1,
+					"insert",
+					{
+						"characters": "3"
+					},
+					"AQAAAA8BAAAAAAAAEAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwEAAAAAAAAPAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					151,
+					1,
+					"left_delete",
+					null,
+					"AQAAAA8BAAAAAAAADwEAAAAAAAABAAAAMw",
+					"AQAAAAAAAAABAAAAEAEAAAAAAAAQAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					152,
+					1,
+					"insert",
+					{
+						"characters": "4"
+					},
+					"AQAAAA8BAAAAAAAAEAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwEAAAAAAAAPAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					155,
+					1,
+					"left_delete",
+					null,
+					"AQAAAA8BAAAAAAAADwEAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAAEAEAAAAAAAAQAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					156,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAA8BAAAAAAAAEAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwEAAAAAAAAPAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					159,
+					1,
+					"left_delete",
+					null,
+					"AQAAAA8BAAAAAAAADwEAAAAAAAABAAAANQ",
+					"AQAAAAAAAAABAAAAEAEAAAAAAAAQAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					160,
+					1,
+					"insert",
+					{
+						"characters": "8"
+					},
+					"AQAAAA8BAAAAAAAAEAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwEAAAAAAAAPAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					163,
+					1,
+					"left_delete",
+					null,
+					"AQAAAA8BAAAAAAAADwEAAAAAAAABAAAAOA",
+					"AQAAAAAAAAABAAAAEAEAAAAAAAAQAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					164,
+					1,
+					"insert",
+					{
+						"characters": "6"
+					},
+					"AQAAAA8BAAAAAAAAEAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwEAAAAAAAAPAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					167,
+					1,
+					"left_delete",
+					null,
+					"AQAAAA8BAAAAAAAADwEAAAAAAAABAAAANg",
+					"AQAAAAAAAAABAAAAEAEAAAAAAAAQAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					168,
+					1,
+					"insert",
+					{
+						"characters": "4"
+					},
+					"AQAAAA8BAAAAAAAAEAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwEAAAAAAAAPAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					169,
+					1,
+					"left_delete",
+					null,
+					"AQAAAA8BAAAAAAAADwEAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAAEAEAAAAAAAAQAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					170,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAA8BAAAAAAAAEAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwEAAAAAAAAPAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					186,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAA0QAAAAAAAADhAAAAAAAAAAAAAADhAAAAAAAAAQEAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADRAAAAAAAAANEAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					192,
+					1,
+					"insert",
+					{
+						"characters": "\n<style><"
+					},
+					"CgAAAP4PAAAAAAAA/w8AAAAAAAAAAAAADxAAAAAAAAAPEAAAAAAAAAIAAAAgIP8PAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAxAAAAAAAAAAAAAAAxAAAAAAAAAEEAAAAAAAAAAAAAAEEAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABhAAAAAAAAAAAAAABhAAAAAAAAAHEAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/g8AAAAAAAD+DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					193,
+					1,
+					"close_tag",
+					{
+						"insert_slash": true
+					},
+					"AQAAAAcQAAAAAAAADhAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABxAAAAAAAAAHEAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					197,
+					1,
+					"auto_indent_tag",
+					null,
+					"AQAAAAYQAAAAAAAAChAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABhAAAAAAAAAGEAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					199,
+					1,
+					"paste",
+					null,
+					"AQAAAAcQAAAAAAAAKRAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABxAAAAAAAAAHEAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					204,
+					1,
+					"insert",
+					{
+						"characters": "Nunito"
+					},
+					"BwAAAB8QAAAAAAAAIBAAAAAAAAAAAAAAIBAAAAAAAAAgEAAAAAAAAAYAAABPeHlnZW4gEAAAAAAAACEQAAAAAAAAAAAAACEQAAAAAAAAIhAAAAAAAAAAAAAAIhAAAAAAAAAjEAAAAAAAAAAAAAAjEAAAAAAAACQQAAAAAAAAAAAAACQQAAAAAAAAJRAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJRAAAAAAAAAfEAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					205,
+					1,
+					"delete_trailing_spaces",
+					null,
+					"AQAAACkQAAAAAAAAKRAAAAAAAAACAAAAICA",
+					"AQAAAAAAAAABAAAAJRAAAAAAAAAlEAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					215,
+					1,
+					"paste",
+					null,
+					"AgAAAB8QAAAAAAAAJxAAAAAAAAAAAAAAJxAAAAAAAAAnEAAAAAAAAAYAAABOdW5pdG8",
+					"AQAAAAAAAAABAAAAHxAAAAAAAAAlEAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					224,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHsQAAAAAAAAexAAAAAAAACEAAAALyogVW5mb3J0dW5hdGVseSBAYXBwbHkgY2Fubm90IGJlIHNldHVwIGluIGNvZGVzYW5kYm94LApidXQgeW91J2QgdXNlICJAYXBwbHkgYm9yZGVyIG9wYWNpdHktNTAgYm9yZGVyLWJsdWUtNTAwIGJnLWdyYXktMjAwIiBoZXJlICov",
+					"AQAAAAAAAAABAAAAexAAAAAAAAD/EAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					229,
+					4,
+					"cut",
+					null,
+					"BAAAAAcQAAAAAAAABxAAAAAAAAAHAAAAaHRtbCB7CgcQAAAAAAAABxAAAAAAAAAcAAAAICAgZm9udC1mYW1pbHk6ICJTcGVjdHJhbCI7CgcQAAAAAAAABxAAAAAAAAACAAAAfQoHEAAAAAAAAAcQAAAAAAAACQAAADwvc3R5bGU+Cg",
+					"AQAAAAAAAAABAAAABxAAAAAAAAAHEAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					231,
+					1,
+					"cut",
+					null,
+					"AQAAAP8PAAAAAAAA/w8AAAAAAAAIAAAAPHN0eWxlPgo",
+					"AQAAAAAAAAABAAAA/w8AAAAAAAD/DwAAAAAAAAAAAAAAAAAA"
+				]
+			]
+		},
+		{
+			"file": "todo.txt",
+			"settings":
+			{
+				"buffer_size": 2258,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "What"
+					},
+					"BAAAAC0IAAAAAAAALggAAAAAAAAAAAAALggAAAAAAAAvCAAAAAAAAAAAAAAvCAAAAAAAADAIAAAAAAAAAAAAADAIAAAAAAAAMQgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALQgAAAAAAAAtCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": " do"
+					},
+					"AwAAADEIAAAAAAAAMggAAAAAAAAAAAAAMggAAAAAAAAzCAAAAAAAAAAAAAAzCAAAAAAAADQIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMQgAAAAAAAAxCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": " I"
+					},
+					"AgAAADQIAAAAAAAANQgAAAAAAAAAAAAANQgAAAAAAAA2CAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANAgAAAAAAAA0CAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": " need"
+					},
+					"BQAAADYIAAAAAAAANwgAAAAAAAAAAAAANwgAAAAAAAA4CAAAAAAAAAAAAAA4CAAAAAAAADkIAAAAAAAAAAAAADkIAAAAAAAAOggAAAAAAAAAAAAAOggAAAAAAAA7CAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANggAAAAAAAA2CAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": " ?"
+					},
+					"AgAAADsIAAAAAAAAPAgAAAAAAAAAAAAAPAgAAAAAAAA9CAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOwgAAAAAAAA7CAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAD0IAAAAAAAAPggAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPQgAAAAAAAA9CAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "database"
+					},
+					"CAAAAD4IAAAAAAAAPwgAAAAAAAAAAAAAPwgAAAAAAABACAAAAAAAAAAAAABACAAAAAAAAEEIAAAAAAAAAAAAAEEIAAAAAAAAQggAAAAAAAAAAAAAQggAAAAAAABDCAAAAAAAAAAAAABDCAAAAAAAAEQIAAAAAAAAAAAAAEQIAAAAAAAARQgAAAAAAAAAAAAARQgAAAAAAABGCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPggAAAAAAAA+CAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": " called"
+					},
+					"BwAAAEYIAAAAAAAARwgAAAAAAAAAAAAARwgAAAAAAABICAAAAAAAAAAAAABICAAAAAAAAEkIAAAAAAAAAAAAAEkIAAAAAAAASggAAAAAAAAAAAAASggAAAAAAABLCAAAAAAAAAAAAABLCAAAAAAAAEwIAAAAAAAAAAAAAEwIAAAAAAAATQgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARggAAAAAAABGCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAE0IAAAAAAAATggAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATQgAAAAAAABNCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "david_k"
+					},
+					"BwAAAE4IAAAAAAAATwgAAAAAAAAAAAAATwgAAAAAAABQCAAAAAAAAAAAAABQCAAAAAAAAFEIAAAAAAAAAAAAAFEIAAAAAAAAUggAAAAAAAAAAAAAUggAAAAAAABTCAAAAAAAAAAAAABTCAAAAAAAAFQIAAAAAAAAAAAAAFQIAAAAAAAAVQgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATggAAAAAAABOCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "anban"
+					},
+					"BQAAAFUIAAAAAAAAVggAAAAAAAAAAAAAVggAAAAAAABXCAAAAAAAAAAAAABXCAAAAAAAAFgIAAAAAAAAAAAAAFgIAAAAAAAAWQgAAAAAAAAAAAAAWQgAAAAAAABaCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVQgAAAAAAABVCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "\ncollection"
+					},
+					"CwAAAFoIAAAAAAAAWwgAAAAAAAAAAAAAWwgAAAAAAABcCAAAAAAAAAAAAABcCAAAAAAAAF0IAAAAAAAAAAAAAF0IAAAAAAAAXggAAAAAAAAAAAAAXggAAAAAAABfCAAAAAAAAAAAAABfCAAAAAAAAGAIAAAAAAAAAAAAAGAIAAAAAAAAYQgAAAAAAAAAAAAAYQgAAAAAAABiCAAAAAAAAAAAAABiCAAAAAAAAGMIAAAAAAAAAAAAAGMIAAAAAAAAZAgAAAAAAAAAAAAAZAgAAAAAAABlCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWggAAAAAAABaCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": " called"
+					},
+					"BwAAAGUIAAAAAAAAZggAAAAAAAAAAAAAZggAAAAAAABnCAAAAAAAAAAAAABnCAAAAAAAAGgIAAAAAAAAAAAAAGgIAAAAAAAAaQgAAAAAAAAAAAAAaQgAAAAAAABqCAAAAAAAAAAAAABqCAAAAAAAAGsIAAAAAAAAAAAAAGsIAAAAAAAAbAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZQgAAAAAAABlCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": " t"
+					},
+					"AgAAAGwIAAAAAAAAbQgAAAAAAAAAAAAAbQgAAAAAAABuCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbAgAAAAAAABsCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "ypes"
+					},
+					"BAAAAG4IAAAAAAAAbwgAAAAAAAAAAAAAbwgAAAAAAABwCAAAAAAAAAAAAABwCAAAAAAAAHEIAAAAAAAAAAAAAHEIAAAAAAAAcggAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbggAAAAAAABuCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"duplicate_line",
+					null,
+					"AQAAAHIIAAAAAAAAiggAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcggAAAAAAAByCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "boards"
+					},
+					"BwAAAIUIAAAAAAAAhggAAAAAAAAAAAAAhggAAAAAAACGCAAAAAAAAAUAAAB0eXBlc4YIAAAAAAAAhwgAAAAAAAAAAAAAhwgAAAAAAACICAAAAAAAAAAAAACICAAAAAAAAIkIAAAAAAAAAAAAAIkIAAAAAAAAiggAAAAAAAAAAAAAiggAAAAAAACLCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiggAAAAAAACFCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAIsIAAAAAAAAjAgAAAAAAAAAAAAAjAgAAAAAAACNCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiwgAAAAAAACLCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "way"
+					},
+					"AwAAAI0IAAAAAAAAjggAAAAAAAAAAAAAjggAAAAAAACPCAAAAAAAAAAAAACPCAAAAAAAAJAIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjQgAAAAAAACNCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": " of"
+					},
+					"AwAAAJAIAAAAAAAAkQgAAAAAAAAAAAAAkQgAAAAAAACSCAAAAAAAAAAAAACSCAAAAAAAAJMIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkAgAAAAAAACQCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": " creating"
+					},
+					"CQAAAJMIAAAAAAAAlAgAAAAAAAAAAAAAlAgAAAAAAACVCAAAAAAAAAAAAACVCAAAAAAAAJYIAAAAAAAAAAAAAJYIAAAAAAAAlwgAAAAAAAAAAAAAlwgAAAAAAACYCAAAAAAAAAAAAACYCAAAAAAAAJkIAAAAAAAAAAAAAJkIAAAAAAAAmggAAAAAAAAAAAAAmggAAAAAAACbCAAAAAAAAAAAAACbCAAAAAAAAJwIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkwgAAAAAAACTCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": " new"
+					},
+					"BAAAAJwIAAAAAAAAnQgAAAAAAAAAAAAAnQgAAAAAAACeCAAAAAAAAAAAAACeCAAAAAAAAJ8IAAAAAAAAAAAAAJ8IAAAAAAAAoAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnAgAAAAAAACcCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": " items"
+					},
+					"BgAAAKAIAAAAAAAAoQgAAAAAAAAAAAAAoQgAAAAAAACiCAAAAAAAAAAAAACiCAAAAAAAAKMIAAAAAAAAAAAAAKMIAAAAAAAApAgAAAAAAAAAAAAApAgAAAAAAAClCAAAAAAAAAAAAAClCAAAAAAAAKYIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoAgAAAAAAACgCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"insert",
+					{
+						"characters": "tasks"
+					},
+					"BgAAAKEIAAAAAAAAoggAAAAAAAAAAAAAoggAAAAAAACiCAAAAAAAAAUAAABpdGVtc6IIAAAAAAAAowgAAAAAAAAAAAAAowgAAAAAAACkCAAAAAAAAAAAAACkCAAAAAAAAKUIAAAAAAAAAAAAAKUIAAAAAAAApggAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApggAAAAAAAChCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIsIAAAAAAAAiwgAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAjAgAAAAAAACMCAAAAAAAAAAAAAAAAGlA"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "\nexpressjs"
+					},
+					"CgAAAFoIAAAAAAAAWwgAAAAAAAAAAAAAWwgAAAAAAABcCAAAAAAAAAAAAABcCAAAAAAAAF0IAAAAAAAAAAAAAF0IAAAAAAAAXggAAAAAAAAAAAAAXggAAAAAAABfCAAAAAAAAAAAAABfCAAAAAAAAGAIAAAAAAAAAAAAAGAIAAAAAAAAYQgAAAAAAAAAAAAAYQgAAAAAAABiCAAAAAAAAAAAAABiCAAAAAAAAGMIAAAAAAAAAAAAAGMIAAAAAAAAZAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWggAAAAAAABaCAAAAAAAAP///////+9/"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": " server"
+					},
+					"BwAAAGQIAAAAAAAAZQgAAAAAAAAAAAAAZQgAAAAAAABmCAAAAAAAAAAAAABmCAAAAAAAAGcIAAAAAAAAAAAAAGcIAAAAAAAAaAgAAAAAAAAAAAAAaAgAAAAAAABpCAAAAAAAAAAAAABpCAAAAAAAAGoIAAAAAAAAAAAAAGoIAAAAAAAAawgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZAgAAAAAAABkCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": " rt"
+					},
+					"AwAAAGsIAAAAAAAAbAgAAAAAAAAAAAAAbAgAAAAAAABtCAAAAAAAAAAAAABtCAAAAAAAAG4IAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAawgAAAAAAABrCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					2,
+					"left_delete",
+					null,
+					"AgAAAG0IAAAAAAAAbQgAAAAAAAABAAAAdGwIAAAAAAAAbAgAAAAAAAABAAAAcg",
+					"AQAAAAAAAAABAAAAbggAAAAAAABuCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "to"
+					},
+					"AgAAAGwIAAAAAAAAbQgAAAAAAAAAAAAAbQgAAAAAAABuCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbAgAAAAAAABsCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": " intera"
+					},
+					"BwAAAG4IAAAAAAAAbwgAAAAAAAAAAAAAbwgAAAAAAABwCAAAAAAAAAAAAABwCAAAAAAAAHEIAAAAAAAAAAAAAHEIAAAAAAAAcggAAAAAAAAAAAAAcggAAAAAAABzCAAAAAAAAAAAAABzCAAAAAAAAHQIAAAAAAAAAAAAAHQIAAAAAAAAdQgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbggAAAAAAABuCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHQIAAAAAAAAdAgAAAAAAAABAAAAYQ",
+					"AQAAAAAAAAABAAAAdQgAAAAAAAB1CAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": "ract"
+					},
+					"BAAAAHQIAAAAAAAAdQgAAAAAAAAAAAAAdQgAAAAAAAB2CAAAAAAAAAAAAAB2CAAAAAAAAHcIAAAAAAAAAAAAAHcIAAAAAAAAeAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdAgAAAAAAAB0CAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"insert",
+					{
+						"characters": " with"
+					},
+					"BQAAAHgIAAAAAAAAeQgAAAAAAAAAAAAAeQgAAAAAAAB6CAAAAAAAAAAAAAB6CAAAAAAAAHsIAAAAAAAAAAAAAHsIAAAAAAAAfAgAAAAAAAAAAAAAfAgAAAAAAAB9CAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeAgAAAAAAAB4CAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": " that"
+					},
+					"BQAAAH0IAAAAAAAAfggAAAAAAAAAAAAAfggAAAAAAAB/CAAAAAAAAAAAAAB/CAAAAAAAAIAIAAAAAAAAAAAAAIAIAAAAAAAAgQgAAAAAAAAAAAAAgQgAAAAAAACCCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfQgAAAAAAAB9CAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"insert",
+					{
+						"characters": " shit"
+					},
+					"BQAAAIIIAAAAAAAAgwgAAAAAAAAAAAAAgwgAAAAAAACECAAAAAAAAAAAAACECAAAAAAAAIUIAAAAAAAAAAAAAIUIAAAAAAAAhggAAAAAAAAAAAAAhggAAAAAAACHCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgggAAAAAAACCCAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/home/david/homedash/api/index.js",
+			"settings":
+			{
+				"buffer_size": 6360,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"black",
+				"python-black: Create Black Configuration File"
+			],
+			[
+				"json",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"termina",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"export",
+				"Requester: Export Tests To Runnable Script"
+			],
+			[
+				"serially",
+				"Requester: Run Tests Serially"
+			],
+			[
+				"tests",
+				"Requester: Export Tests To Runnable Script"
+			],
+			[
+				"run tests",
+				"Requester: Run Tests Serially"
+			],
+			[
+				"requester onlin",
+				"Requester: Show Documentation (Online)"
+			],
+			[
+				"documentation",
+				"Requester: Show Documentation (Online)"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"requester seriall",
+				"Requester: Run Requests Serially"
+			],
+			[
+				"seriall",
+				"Requester: Run Requests Serially"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"requester close",
+				"Requester: Close All Response Tabs"
+			],
+			[
+				"requester sett",
+				"Requester: Settings"
+			],
+			[
+				"close",
+				"Requester: Close All Response Tabs"
+			],
+			[
+				"requester online",
+				"Requester: Show Documentation (Online)"
+			],
+			[
+				"ac",
+				"Virtualenv: Activate"
+			],
+			[
+				"build",
+				"Build: New Build System"
+			],
+			[
+				"virtual",
+				"Virtualenv: Activate"
+			],
+			[
+				"acti",
+				"Virtualenv: Activate"
+			],
+			[
+				"deac",
+				"PyTest: Deactivate for this project"
+			],
+			[
+				"activa",
+				"Virtualenv: Activate"
+			],
+			[
+				"virtualenv",
+				"Virtualenv: Add directory"
+			],
+			[
+				"virtua",
+				"Virtualenv: Activate"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"requester",
+				"Requester: Settings"
+			],
+			[
+				"serial",
+				"Requester: Run Requests Serially"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"new requ",
+				"Requester: New Requester File"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"requester serial",
+				"Requester: Run Requests Serially"
+			],
+			[
+				"requester new ",
+				"Requester: New Requester File"
+			],
+			[
+				"requester ",
+				"Requester: Show Interactive Tutorial"
+			],
+			[
+				"mini",
+				"Pretty JSON: Minify JSON"
+			],
+			[
+				"mane",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"edit",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"edit sni",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"snippet edit",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"snipped",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"seri",
+				"Requester: Run Requests Serially"
+			],
+			[
+				"requests ser",
+				"Requester: Run Requests Serially"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"snippet edi",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"trailing",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"syntax vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"diff",
+				"Diffy Compare"
+			],
+			[
+				"snipp",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"sni",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"folders",
+				"Project: Refresh Folders"
+			],
+			[
+				"syntax javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"j",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"compare",
+				"Diffy Compare"
+			],
+			[
+				"requester ser",
+				"Requester: Run Requests Serially"
+			],
+			[
+				"add fo",
+				"Project: Add Folder"
+			],
+			[
+				"request ser",
+				"Requester: Run Requests Serially"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"confi",
+				"python-black: Create Black Configuration File"
+			],
+			[
+				"requester seri",
+				"Requester: Run Requests Serially"
+			],
+			[
+				"request seri",
+				"Requester: Run Requests Serially"
+			],
+			[
+				"requester seria",
+				"Requester: Run Requests Serially"
+			],
+			[
+				"requester run",
+				"Requester: Run Requests Serially"
+			],
+			[
+				"save project",
+				"Project: Save As"
+			],
+			[
+				"snippet make",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"edit sn",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"terminal",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"requests run",
+				"Requester: Run Requests Serially"
+			],
+			[
+				"requester run ser",
+				"Requester: Run Requests Serially"
+			],
+			[
+				"requester show",
+				"Requester: Show Interactive Tutorial"
+			],
+			[
+				"requester test",
+				"Requester: Show Documentation (Online)"
+			],
+			[
+				"settings",
+				"Preferences: Trailing Spaces Settings"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"white",
+				"Trim Trailing White Space"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"make sni",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"reque",
+				"Requester: Run Requests"
+			],
+			[
+				"req",
+				"Requester: Replay Request"
+			],
+			[
+				"request",
+				"Requester: Settings"
+			],
+			[
+				"syntax pyt",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 326.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(True)\nsublime.log_commands(True)\nsublime.log_commands(False)",
+			"sublime.log_commands(True)\nsublime.log_commands(True)\nsublime.log_commands(true)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/david/david",
+		"/home/david/david/assets",
+		"/home/david/david/components"
+	],
+	"file_history":
+	[
+		"/home/david/david/todo.txt",
+		"/home/david/david/nuxt.config.js",
+		"/home/david/david/layouts/default.vue",
+		"/home/david/david/components/TaskCard.vue",
+		"/home/david/david/components/Badge.vue",
+		"/home/david/david/node_modules/pretty-error/lib/defaultStyle.js",
+		"/home/david/homedash/todo.txt",
+		"/home/david/plates/truckoo/python/requester/shipcloud_run.pyr",
+		"/home/david/plates/truckoo/python/endpoints/procedures.py",
+		"/home/david/plates/pyproject.toml",
+		"/home/david/plates/truckoo/python/requester/shipcloud_create.pyr",
+		"/home/david/plates/truckoo/python/models/__init__.py",
+		"/home/david/plates/truckoo/python/requester/yellow_plate_create.pyr",
+		"/home/david/plates/truckoo/python/requester/red_plate_create.pyr",
+		"/home/david/plates/truckoo/python/requester/self_deregister_plate_create.pyr",
+		"/home/david/plates/truckoo/python/requester/deregister_plate_create.pyr",
+		"/home/david/plates/truckoo/python/requester/seed.pyr",
+		"/home/david/plates/truckoo/python/requester/items.pyr",
+		"/home/david/plates/truckoo/python/endpoints/admin.py",
+		"/home/david/plates/truckoo/python/requester/test.py",
+		"/home/david/plates/web/selenium/test.py",
+		"/home/david/plates/truckoo/python/requester/addresses.py",
+		"/home/david/platform_api/metrics/utils/common_functions.py",
+		"/home/david/platform_api/metrics/utils/dateutil.py",
+		"/home/david/platform_api/metrics/utils/filters.py",
+		"/home/david/platform_api/metrics/utils/flask_restx.py",
+		"/home/david/platform_api/metrics/utils/map_field.py",
+		"/home/david/platform_api/metrics/utils/Models.py",
+		"/home/david/platform_api/metrics/endpoints/activity_frequency_distribution.py",
+		"/home/david/platform_api/metrics/endpoints/activity_performance_distribution.py",
+		"/home/david/platform_api/metrics/endpoints/applications.py",
+		"/home/david/platform_api/metrics/endpoints/arrival_handling.py",
+		"/home/david/platform_api/metrics/endpoints/cases.py",
+		"/home/david/platform_api/metrics/endpoints/cases_activities_report.py",
+		"/home/david/platform_api/metrics/endpoints/dashboard.py",
+		"/home/david/platform_api/metrics/endpoints/distribution.py",
+		"/home/david/platform_api/metrics/endpoints/__init__.py",
+		"/home/david/platform_api/metrics/endpoints/length_distribution.py",
+		"/home/david/platform_api/metrics/endpoints/participants.py",
+		"/home/david/platform_api/metrics/endpoints/performance_distribution.py",
+		"/home/david/platform_api/metrics/endpoints/process_subprocess_report.py",
+		"/home/david/platform_api/metrics/endpoints/variant_arrival.py",
+		"/home/david/platform_api/metrics/endpoints/variant_frequency_distribution.py",
+		"/home/david/platform_api/metrics/endpoints/variant_performance_distribution.py",
+		"/home/david/plates/truckoo/python/Namespaces/procedures.py",
+		"/home/david/plates/truckoo/python/venv/lib/python3.9/site-packages/_pytest/terminal.py",
+		"/home/david/plates/truckoo/python/docs/GET_statuses.html",
+		"/home/david/plates/truckoo/python/docs/PATCH_user_items_status.html",
+		"/home/david/plates/truckoo/python/docs/PATCH_user_item.md",
+		"/home/david/plates/truckoo/python/docs/GET_user_items.html",
+		"/home/david/plates/truckoo/python/docs/GET_user_items.md",
+		"/home/david/plates/truckoo/python/docs/POST_DeregisterPlate.html",
+		"/home/david/plates/truckoo/python/docs/POST_DeregisterPlate.md",
+		"/home/david/plates/truckoo/python/docs/PATCH_Item.html",
+		"/home/david/plates/truckoo/python/docs/PATCH_Item.md",
+		"/home/david/plates/truckoo/python/plate_tests.pyr",
+		"/home/david/plates/truckoo/python/requester/item_create.pyr",
+		"/home/david/plates/truckoo/python/PATCH_Item.html",
+		"/home/david/plates/truckoo/python/lib/docs/PATCH_Item.html",
+		"/home/david/plates/truckoo/python/lib/m5_base_app.py",
+		"/home/david/plates/truckoo/python/templates/test.html",
+		"/home/david/plates/truckoo/python/venv/lib/python3.9/site-packages/pip/_vendor/cachecontrol/controller.py",
+		"/home/david/plates/truckoo/python/endpoints/errors.py",
+		"/home/david/platform_api/agents/main.py",
+		"/home/david/platform_api/agents/endpoints/__init__.py",
+		"/home/david/plates/truckoo/python/templates/_endpoints.txt",
+		"/home/david/plates/truckoo/python/templates/generate.py",
+		"/home/david/plates/truckoo/python/templates/nextup.txt",
+		"/home/david/plates/truckoo/python/lib/todo.txt",
+		"/home/david/plates/truckoo/python/templates/schema.txt",
+		"/home/david/plates/truckoo/python/templates/_models.txt",
+		"/home/david/plates/truckoo/python/generate.py",
+		"/home/david/plates/truckoo/python/templates/_endpoint.txt",
+		"/home/david/plates/truckoo/python/lib/order.py",
+		"/home/david/plates/truckoo/python/requester/item_patch.pyr",
+		"/home/david/plates/truckoo/python/endpoints/controllers.py",
+		"/home/david/plates/truckoo/python/utils/shipcloud/__init__.py",
+		"/home/david/plates/truckoo/python/schema.txt",
+		"/home/david/plates/truckoo/python/endpoints/order.py",
+		"/home/david/platform_api/metrics2/utils/flask_restx.py",
+		"/home/david/platform_api/hierarchy/utils/Models.py",
+		"/home/david/platform_api/hierarchy/utils/common_functions.py",
+		"/home/david/platform_api/hierarchy/utils/DbConnection.py",
+		"/home/david/plates/truckoo/python/nextup.txt",
+		"/home/david/plates/truckoo/python/requester/statuses.py",
+		"/home/david/plates/truckoo/python/venv/bin/activate",
+		"/home/david/plates/truckoo/python/utils/mongo/__init__.py",
+		"/home/david/plates/truckoo/python/templates/_restx_models.txt",
+		"/home/david/.config/sublime-text/Packages/User/plates.sublime-build",
+		"/home/david/.virtualenvs/mama/bin/activate",
+		"/home/david/.venvs/plates/bin/activate",
+		"/home/david/plates/truckoo/python/test.js",
+		"/home/david/fun/models.py",
+		"/home/david/plates/truckoo/python/utils/Models.py",
+		"/home/david/plates/truckoo/generate.py",
+		"/home/david/plates/truckoo/python/generate/api.py",
+		"/home/david/plates/truckoo/python/generate/_endpoints.txt",
+		"/home/david/plates/truckoo/python/generate/_endpoint.txt",
+		"/home/david/plates/truckoo/python/generate/items.pyr",
+		"/home/david/plates/truckoo/python/generate/models.py",
+		"/home/david/plates/truckoo/python/generate/generate.py",
+		"/home/david/plates/truckoo/python/generate/_models.txt",
+		"/home/david/plates/truckoo/python/generate/schema.txt",
+		"/home/david/plates/truckoo/generate.sh",
+		"/home/david/plates/truckoo/python/generate/item_create.pyr",
+		"/home/david/plates/truckoo/python/generate/item_patch.pyr",
+		"/home/david/plates/truckoo/python/generate/nextup.txt",
+		"/home/david/plates/truckoo/generate/_endpoint.txt",
+		"/home/david/plates/truckoo/generate/models.py",
+		"/home/david/plates/truckoo/python/generate/bigreq",
+		"/home/david/plates/truckoo/python/requirements.txt",
+		"/home/david/plates/truckoo/generate/requirements.txt",
+		"/home/david/plates/web/selenium/test.json",
+		"/home/david/plates/truckoo/generate/nextup.txt",
+		"/home/david/plates/truckoo/python/venv/lib/python3.9/site-packages/jinja2/ext.py",
+		"/home/david/plates/web/store/orders/create.js",
+		"/home/david/plates/web/components/order/create/deregister.vue",
+		"/home/david/plates/web/components/order/create/reviewDeregistration.vue",
+		"/home/david/plates/web/pages/login.vue",
+		"/home/david/plates/web/components/order/create/carrier.vue",
+		"/home/david/plates/web/components/order/create/type.vue",
+		"/home/david/plates/web/locales/de.json",
+		"/home/david/plates/web/components/order/create/customer.vue",
+		"/home/david/plates/web/layouts/default.vue",
+		"/home/david/plates/web/pages/create.vue",
+		"/home/david/plates/web/locales/en.json",
+		"/home/david/.config/sublime-text/Packages/User/Snippets/tl.sublime-snippet",
+		"/home/david/plates/web/nuxt.config.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"*.pyr",
+			"*.py",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"vueti",
+			"10px",
+			"25",
+			"50",
+			"span",
+			"v-avatar",
+			"avatar",
+			"div",
+			"layout",
+			"p",
+			"img",
+			"div",
+			"# ",
+			", ",
+			"List(Nested(item_entity))",
+			"print",
+			"RedPlate",
+			"True",
+			"None",
+			"False",
+			">",
+			"<",
+			"Item",
+			"print",
+			"kwargs",
+			"None",
+			"[\"$oid\"]",
+			"def set",
+			"'clear'",
+			"pre_save",
+			"Parent",
+			".value",
+			"post_save",
+			"RedPlate",
+			"pr",
+			"expect(List(Nested(item_entity)))",
+			"user_model",
+			"shipment_post",
+			"shipment_model",
+			"shipcloud_entity",
+			"shipcloud_model",
+			"carrier_entity",
+			"carrier_model",
+			"address_entity",
+			"invoice_entity",
+			"invoice_model",
+			"image_model",
+			"status_entity",
+			"status_model",
+			"statuses",
+			"procedures + '/statu",
+			"base_url + '/statu",
+			"status_entity",
+			"status_model",
+			"status_entity",
+			"image_entity",
+			"image_model",
+			"status_entity",
+			"status_model",
+			"order_entity",
+			"order_model",
+			"self_deregister_plate_post",
+			"deregister_plate_entity",
+			"deregister_plate_model",
+			"deregister_plate_entity",
+			"item_model",
+			"item_entity",
+			"item_model",
+			"municipality_entity",
+			"municipality_model",
+			"user_entity",
+			"user_model",
+			"shipment_post",
+			"shipment_entity",
+			"doc",
+			"param",
+			"shipment_query",
+			"group_request_shipments",
+			"base",
+			"oid",
+			"param_docs",
+			"doc",
+			"shipcloud_api",
+			"json_normalize",
+			"model_query",
+			"json_normalize",
+			"api.",
+			"expect",
+			"Item",
+			"procedures",
+			"items/quote",
+			"municipality_address",
+			"user_address",
+			"user_model",
+			"addresses",
+			"municipality_address",
+			"municipality_entity",
+			"procedures",
+			"name=",
+			", name",
+			"name=",
+			", name=\"",
+			", name=\"municipality\"",
+			"name=",
+			"admin",
+			"[\"$oid\"]",
+			"name",
+			"name=\"",
+			"admin",
+			"base_url",
+			"PATCH_doc",
+			"GET_doc",
+			"POST_doc",
+			"yellow_plate_post",
+			"yellow_plate_model",
+			"start_date",
+			"starst",
+			"red_plate_enti",
+			"url",
+			"red_plate_post",
+			"image",
+			"red_plate_post",
+			"self_deregister_plate_post",
+			"RedPlate",
+			"deregister_plate_post",
+			"shipment_post",
+			"item_post",
+			"deregister_plate_post"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'~/components/order/processed.vue'",
+			"orders/create",
+			""
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pages/index.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4218,
+								4218
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 505.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "todo.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2183,
+								2183
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1033.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/david/homedash/api/index.js",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 6360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.black":
+	{
+		"height": 138.0
+	},
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/plates.sublime-build",
+	"project": "david.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"default.vue",
+				"layouts/default.vue"
+			],
+			[
+				"defaults",
+				"node_modules/pretty-error/lib/defaultStyle.js"
+			],
+			[
+				"Badge",
+				"components/Badge.vue"
+			],
+			[
+				"nuxt",
+				"nuxt.config.js"
+			],
+			[
+				"badge",
+				"components/Badge.vue"
+			],
+			[
+				"Task",
+				"components/TaskCard.vue"
+			],
+			[
+				".txt",
+				"todo.txt"
+			],
+			[
+				"Bad",
+				"components/Badge.vue"
+			],
+			[
+				"pages/inde",
+				"pages/index.vue"
+			],
+			[
+				".pyr",
+				"truckoo/python/requester/shipcloud_run.pyr"
+			],
+			[
+				"shipcl",
+				"truckoo/python/requester/shipcloud_create.pyr"
+			],
+			[
+				"procedures",
+				"truckoo/python/endpoints/procedures.py"
+			],
+			[
+				"yell",
+				"truckoo/python/requester/yellow_plate_create.pyr"
+			],
+			[
+				"red_",
+				"truckoo/python/requester/red_plate_create.pyr"
+			],
+			[
+				"self_",
+				"truckoo/python/requester/self_deregister_plate_create.pyr"
+			],
+			[
+				"deregs",
+				"truckoo/python/requester/deregister_plate_create.pyr"
+			],
+			[
+				"seed",
+				"truckoo/python/requester/seed.pyr"
+			],
+			[
+				"plate_",
+				"truckoo/python/requester/deregister_plate_create.pyr"
+			],
+			[
+				"create",
+				"truckoo/python/requester/deregister_plate_create.pyr"
+			],
+			[
+				"admin.py",
+				"truckoo/python/endpoints/admin.py"
+			],
+			[
+				"items.pyr",
+				"truckoo/python/requester/items.pyr"
+			],
+			[
+				"seed.pyr",
+				"truckoo/python/requester/seed.pyr"
+			],
+			[
+				"plate_create",
+				"truckoo/python/requester/red_plate_create.pyr"
+			],
+			[
+				"models/__",
+				"truckoo/python/models/__init__.py"
+			],
+			[
+				"test.p",
+				"truckoo/python/requester/test.py"
+			],
+			[
+				"test.py",
+				"web/selenium/test.py"
+			],
+			[
+				"yellow",
+				"truckoo/python/requester/yellow_plate_create.pyr"
+			],
+			[
+				"red_plate",
+				"truckoo/python/requester/red_plate_create.pyr"
+			],
+			[
+				"plate",
+				"truckoo/python/requester/deregister_plate_create.pyr"
+			],
+			[
+				"dere",
+				"truckoo/python/requester/deregister_plate_create.pyr"
+			],
+			[
+				"models/",
+				"truckoo/python/models/__init__.py"
+			],
+			[
+				"models/__init__.py",
+				"truckoo/python/models/__init__.py"
+			],
+			[
+				"red",
+				"truckoo/python/requester/red_plate_create.pyr"
+			],
+			[
+				"models/__init",
+				"truckoo/python/models/__init__.py"
+			],
+			[
+				"addre",
+				"truckoo/python/requester/addresses.py"
+			],
+			[
+				"addresses.py",
+				"truckoo/python/requester/addresses.py"
+			],
+			[
+				"admin",
+				"truckoo/python/endpoints/admin.py"
+			],
+			[
+				"models/i",
+				"truckoo/python/models/__init__.py"
+			],
+			[
+				"models/__ini",
+				"truckoo/python/models/__init__.py"
+			],
+			[
+				"self",
+				"truckoo/python/requester/self_deregister_plate_create.pyr"
+			],
+			[
+				"deregister",
+				"truckoo/python/requester/deregister_plate_create.pyr"
+			],
+			[
+				"dereg",
+				"truckoo/python/requester/deregister_plate_create.pyr"
+			],
+			[
+				"items.py",
+				"truckoo/python/requester/items.pyr"
+			],
+			[
+				"seed.",
+				"truckoo/python/requester/seed.pyr"
+			],
+			[
+				"items",
+				"truckoo/python/requester/items.pyr"
+			],
+			[
+				"termina",
+				"truckoo/python/venv/lib/python3.9/site-packages/_pytest/terminal.py"
+			],
+			[
+				".md",
+				"truckoo/python/docs/GET_user_items.md"
+			],
+			[
+				"GET_USER",
+				"truckoo/python/docs/GET_user_items.md"
+			],
+			[
+				"GET_",
+				"truckoo/python/docs/GET_user_items.html"
+			],
+			[
+				"item",
+				"truckoo/python/requester/items.pyr"
+			],
+			[
+				"PATCH_",
+				"truckoo/python/docs/PATCH_Item.html"
+			],
+			[
+				"endpoints/admin",
+				"truckoo/python/endpoints/admin.py"
+			],
+			[
+				"PATCH",
+				"truckoo/python/docs/PATCH_Item.html"
+			],
+			[
+				"m5",
+				"truckoo/python/lib/m5_base_app.py"
+			],
+			[
+				"m5_",
+				"truckoo/python/lib/m5_base_app.py"
+			],
+			[
+				"endpoints/ad",
+				"truckoo/python/endpoints/admin.py"
+			],
+			[
+				"contro",
+				"truckoo/python/venv/lib/python3.9/site-packages/pip/_vendor/cachecontrol/controller.py"
+			],
+			[
+				"erro",
+				"truckoo/python/endpoints/errors.py"
+			],
+			[
+				"proce",
+				"truckoo/python/endpoints/procedures.py"
+			],
+			[
+				"gene",
+				"truckoo/python/templates/generate.py"
+			],
+			[
+				"template",
+				"truckoo/python/templates/_endpoints.txt"
+			],
+			[
+				".toml",
+				"pyproject.toml"
+			],
+			[
+				"schema",
+				"truckoo/python/schema.txt"
+			],
+			[
+				"proced",
+				"truckoo/python/endpoints/procedures.py"
+			],
+			[
+				"endpoints",
+				"truckoo/python/templates/_endpoints.txt"
+			],
+			[
+				"generate.py",
+				"truckoo/python/generate.py"
+			],
+			[
+				"endpoints/admi",
+				"truckoo/python/endpoints/admin.py"
+			],
+			[
+				"models/in",
+				"truckoo/python/models/__init__.py"
+			],
+			[
+				"model.txt",
+				"truckoo/python/templates/_models.txt"
+			],
+			[
+				"endpoints.txt",
+				"truckoo/python/templates/_endpoints.txt"
+			],
+			[
+				"pro",
+				"truckoo/python/endpoints/procedures.py"
+			],
+			[
+				"endpoint.txt",
+				"truckoo/python/templates/_endpoint.txt"
+			],
+			[
+				"model",
+				"truckoo/python/templates/_models.txt"
+			],
+			[
+				"endpoi",
+				"truckoo/python/templates/_endpoints.txt"
+			],
+			[
+				"order",
+				"truckoo/python/lib/order.py"
+			],
+			[
+				"pyr",
+				"truckoo/python/requester/seed.pyr"
+			],
+			[
+				"genera",
+				"truckoo/python/generate.py"
+			],
+			[
+				"endpoin",
+				"truckoo/python/templates/_endpoints.txt"
+			],
+			[
+				"models.txt",
+				"truckoo/python/templates/_models.txt"
+			],
+			[
+				"templates",
+				"truckoo/python/templates/_models.txt"
+			],
+			[
+				"ship",
+				"truckoo/python/requester/shipcloud_create.pyr"
+			],
+			[
+				"chema",
+				"truckoo/python/schema.txt"
+			],
+			[
+				"utils/ship",
+				"truckoo/python/utils/shipcloud/__init__.py"
+			],
+			[
+				"lib/",
+				"truckoo/python/lib/order.py"
+			],
+			[
+				"endpoints/ord",
+				"truckoo/python/endpoints/order.py"
+			],
+			[
+				"controllers",
+				"truckoo/python/endpoints/controllers.py"
+			],
+			[
+				"endpoints/",
+				"truckoo/python/endpoints/procedures.py"
+			],
+			[
+				"addresses",
+				"truckoo/python/requester/addresses.py"
+			],
+			[
+				"generate",
+				"truckoo/python/generate.py"
+			],
+			[
+				"shipcloud",
+				"truckoo/python/requester/shipcloud_create.pyr"
+			],
+			[
+				"controller",
+				"truckoo/python/endpoints/controllers.py"
+			],
+			[
+				"nextup",
+				"truckoo/python/nextup.txt"
+			],
+			[
+				"next",
+				"truckoo/python/nextup.txt"
+			],
+			[
+				"models.",
+				"truckoo/python/templates/_models.txt"
+			],
+			[
+				"mongo/__init",
+				"truckoo/python/utils/mongo/__init__.py"
+			],
+			[
+				"mongo",
+				"truckoo/python/utils/mongo/__init__.py"
+			],
+			[
+				"endpoint",
+				"truckoo/python/templates/_endpoint.txt"
+			],
+			[
+				"nextu",
+				"truckoo/python/nextup.txt"
+			],
+			[
+				"shipclou",
+				"truckoo/python/requester/shipcloud_create.pyr"
+			],
+			[
+				"models/ini",
+				"truckoo/python/models/__init__.py"
+			],
+			[
+				"controll",
+				"truckoo/python/endpoints/controllers.py"
+			],
+			[
+				"contr",
+				"truckoo/python/endpoints/controllers.py"
+			],
+			[
+				"item_create",
+				"truckoo/python/requester/item_create.pyr"
+			],
+			[
+				"_endpoint.txt",
+				"truckoo/python/templates/_endpoint.txt"
+			],
+			[
+				"_model",
+				"truckoo/python/templates/_models.txt"
+			],
+			[
+				"item_pat",
+				"truckoo/python/requester/item_patch.pyr"
+			],
+			[
+				"models",
+				"truckoo/python/utils/Models.py"
+			],
+			[
+				"controllers.py",
+				"truckoo/python/endpoints/controllers.py"
+			],
+			[
+				"api.py",
+				"truckoo/python/generate/api.py"
+			],
+			[
+				"models.py",
+				"truckoo/python/generate/models.py"
+			],
+			[
+				"endpoint.",
+				"truckoo/python/generate/_endpoint.txt"
+			],
+			[
+				"endpoints.t",
+				"truckoo/python/generate/_endpoints.txt"
+			],
+			[
+				"bigreq",
+				"truckoo/python/generate/bigreq"
+			],
+			[
+				"test.json",
+				"web/selenium/test.json"
+			],
+			[
+				"text.py",
+				"truckoo/python/venv/lib/python3.9/site-packages/jinja2/ext.py"
+			],
+			[
+				"create.js",
+				"web/store/orders/create.js"
+			],
+			[
+				"reviewDe",
+				"web/components/order/create/reviewDeregistration.vue"
+			],
+			[
+				"de.json",
+				"web/locales/de.json"
+			],
+			[
+				"type",
+				"web/components/order/create/type.vue"
+			],
+			[
+				"customer",
+				"web/components/order/create/customer.vue"
+			],
+			[
+				"carrier",
+				"web/components/order/create/carrier.vue"
+			],
+			[
+				"login",
+				"web/pages/login.vue"
+			],
+			[
+				"en.json",
+				"web/locales/en.json"
+			],
+			[
+				"de.",
+				"web/locales/de.json"
+			],
+			[
+				"en.j",
+				"web/locales/en.json"
+			],
+			[
+				"create.vue",
+				"web/pages/create.vue"
+			],
+			[
+				"store/create",
+				"web/store/orders/create.js"
+			],
+			[
+				"en.",
+				"web/locales/en.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/plates/truckoo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

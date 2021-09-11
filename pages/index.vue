@@ -1,17 +1,14 @@
 <template>
-  <v-row justify="center" align="center">
-    ad
-    <nuxt-content :document="page" />
-  </v-row>
+  <v-layout>
+    <kanban />
+  </v-layout>
 </template>
 <script>
-export default {
-  async asyncData ({ $content }) {
-    const page = await $content('hello').fetch()
+import kanban from '~/components/kanban/Kanban.vue'
 
-    return {
-      page
-    }
+export default {
+  components: {
+    kanban
   }
 }
 </script>
