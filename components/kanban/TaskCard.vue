@@ -40,10 +40,6 @@ export default {
   },
   computed: {
     badgeColor () {
-      console.log(this.types)
-      console.log(this.task)
-      console.log(this.types.filter(x => x.title === this.task.type))
-
       return this.types.filter(x => x.title === this.task.type).length > 0
         ? this.types.filter(x => x.title === this.task.type)[0].color
         : 'teal'
