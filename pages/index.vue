@@ -1,14 +1,14 @@
 <template>
   <v-layout>
-    asd
+    <kanban />
   </v-layout>
 </template>
 <script>
-/*import kanban from '~/components/kanban/Kanban.vue'*/
+import kanban from '~/components/kanban/Kanban.vue'
 
 export default {
   components: {
-/*    kanban*/
+    kanban
   }
 }
 </script>
