@@ -40,14 +40,14 @@ export const actions = {
   },
 
   loadBoards ({ commit }) {
-    this.$axios.get('/api/boards').then((response) => {
+    this.$axios.get(process.env.AXIOS_BASE_URL + '/api/boards').then((response) => {
       commit('boards', response.data)
       commit('board', response.data[0])
     })
   },
 
   updateBoard ({ commit, state, dispatch }) {
-    this.$axios.put('/api/boards', {
+    this.$axios.put(process.env.AXIOS_BASE_URL + '/api/boards', {
       board: state.board
     }).then((response) => {
     }).finally(() => {
@@ -56,7 +56,7 @@ export const actions = {
   },
 
   createBoard ({ commit, dispatch }, name) {
-    this.$axios.post('/api/boards', {
+    this.$axios.post(process.env.AXIOS_BASE_URL + '/api/boards', {
       name
     }).then((response) => {
       dispatch('loadBoards')
