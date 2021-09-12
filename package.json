@@ -20,6 +20,7 @@
     "moment": "^2.29.1",
     "mongodb": "^4.1.1",
     "nuxt": "^2.15.7",
+    "vue-masonry": "^0.13.0",
     "vuedraggable": "^2.24.3",
     "vuetify": "^2.5.5",
     "vuex-map-fields": "^1.4.1"

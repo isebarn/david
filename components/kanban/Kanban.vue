@@ -10,17 +10,21 @@
       <v-spacer />
       <new-column />
     </v-app-bar>
-    <v-container>
-      <v-layout v-if="board" justify-center pt-5>
+    <v-container v-if="board" v-masonry :fluid="board.columns.length > 3">
+      <v-layout
+        v-for="(column, i) in board.columns"
+        :key="i"
+        v-masonry-tile
+        justify-center
+        pt-5
+      >
         <v-card
-          v-for="(column, i) in board.columns"
-          :key="i"
           class="rounded-lg px-3 py-3 column-width rounded mr-4"
           color="grey light-blue lighten-5"
         >
-          <v-text-field v-model="column.title" class="text-gray-700 font-semibold font-sans tracking-wide text-sm" @change="updateBoard">
-            {{ column.title }}
-          </v-text-field>
+          <v-container>
+            <input v-model="column.title" @change="updateBoard">
+          </v-container>
           <draggable :list="column.tasks" :animation="200" ghost-class="ghost-card" group="tasks" @end="updateBoard">
             <task-card
               v-for="(task) in column.tasks"
@@ -34,6 +38,7 @@
         </v-card>
       </v-layout>
     </v-container>
+    </v-layout>
   </v-container>
 </template>
 <script>
@@ -44,6 +49,7 @@ import TaskCard from './TaskCard.vue'
 import BoardMenu from './BoardMenu.vue'
 import NewItem from './Item.vue'
 import NewColumn from './NewColumn.vue'
+
 export default {
   components: {
     TaskCard,
@@ -80,5 +86,9 @@ export default {
   opacity: 0.5;
   background: #F7FAFC;
   border: 1px solid #4299e1;
+}
+
+textarea:focus, input:focus{
+    outline: none;
 }
 </style>
