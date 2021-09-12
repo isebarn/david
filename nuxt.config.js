@@ -60,7 +60,7 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
-    baseURL: process.env.AXIOS_BASE_URL
+    baseURL: 'https://david.isebarn.com'
   },
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
