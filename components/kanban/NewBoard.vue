@@ -26,7 +26,7 @@
         <v-btn
           color="primary"
           text
-          @click="createBoard(name); dialog=false"
+          @click="newBoard()"
         >
           Save
         </v-btn>
@@ -48,7 +48,13 @@ export default {
   },
 
   methods: {
-    ...mapActions('kanban', ['createBoard'])
+    ...mapActions('kanban', ['createBoard']),
+
+    newBoard () {
+      this.createBoard(this.name)
+      this.name = ''
+      this.dialog = false
+    }
   }
 }
 </script>

@@ -22,7 +22,7 @@ export const mutations = {
   },
 
   addItem: (state, payload) => {
-    state.board.columns[0].tasks.push(payload)
+    state.board.columns[payload.columnIdx].tasks.push(payload.item)
   },
 
   addColumn: (state, payload) => {
@@ -39,10 +39,15 @@ export const actions = {
     commit('boards', data)
   },
 
-  loadBoards ({ commit }) {
+  loadBoards ({ commit }, selectedBoard) {
     this.$axios.get('/api/boards').then((response) => {
       commit('boards', response.data)
-      commit('board', response.data[0])
+
+      if (selectedBoard) {
+        commit('board', response.data.find(x => x._id === selectedBoard))
+      } else if (response.data.length > 0) {
+        commit('board', response.data[0])
+      }
     })
   },
 
@@ -59,7 +64,7 @@ export const actions = {
     this.$axios.post('/api/boards', {
       name
     }).then((response) => {
-      dispatch('loadBoards')
+      dispatch('loadBoards', response.data.insertedId)
     })
   },
 
@@ -72,8 +77,8 @@ export const actions = {
     dispatch('updateBoard')
   },
 
-  addItem ({ commit, dispatch }, type) {
-    commit('addItem', type)
+  addItem ({ commit, dispatch }, payload) {
+    commit('addItem', payload)
     dispatch('updateBoard')
   },
 

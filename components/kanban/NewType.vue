@@ -10,23 +10,29 @@
         v-bind="attrs"
         v-on="on"
       >
-        New Type
+        New Label
         <v-spacer />
         <v-icon>mdi-plus</v-icon>
       </v-btn>
     </template>
     <v-card>
-      <v-card-title>New Type</v-card-title>
+      <v-card-title>New Label</v-card-title>
       <v-card-text>
         <v-text-field
-          v-model="type.title"
+          v-model="title"
           name="title"
-          label="new type"
+          label="new title"
         />
-        <v-text-field
-          v-model="type.color"
-          name="color"
-          label="type color"
+        <v-card-subtitle>Label color</v-card-subtitle>
+        <v-color-picker
+          v-model="color"
+          dot-size="25"
+          hide-canvas
+          hide-inputs
+          hide-sliders
+          show-swatches
+          :swatches="swatches"
+          swatches-max-height="200"
         />
       </v-card-text>
       <v-card-actions>
@@ -34,7 +40,7 @@
         <v-btn
           color="primary"
           text
-          @click="addType(type); dialog=false"
+          @click="newType()"
         >
           Save
         </v-btn>
@@ -50,16 +56,50 @@ export default {
 
   data () {
     return {
-      type: {
-        title: '',
-        color: ''
-      },
-      dialog: false
+      title: '',
+      color: null,
+      dialog: false,
+      swatches: [
+        [
+          '#FFC0C0',
+          '#FFE6E6',
+          '#FFD3D3',
+          '#FFADAD',
+          '#FF9A9A'
+        ],
+        [
+          '#FFDDC0',
+          '#FFF1E6',
+          '#FFE7D3',
+          '#FFD2AD',
+          '#FFC89A'
+        ],
+        [
+          '#B0E9E9',
+          '#E2FBFB',
+          '#C9F3F3',
+          '#95DCDC',
+          '#7BCCCC'
+        ],
+        [
+          '#B8F4B8',
+          '#E4FDE4',
+          '#CEF9CE',
+          '#A1EEA1',
+          '#8BE68B'
+        ]
+      ]
+
     }
   },
 
   methods: {
-    ...mapActions('kanban', ['addType'])
+    ...mapActions('kanban', ['addType']),
+
+    newType () {
+      this.addType({ title: this.title, color: this.color.hex })
+      this.dialog = false
+    }
   }
 }
 </script>

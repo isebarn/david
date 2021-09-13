@@ -12,8 +12,8 @@
     </v-app-bar>
     <v-container v-if="board" v-masonry :fluid="board.columns.length > 3">
       <v-layout
-        v-for="(column, i) in board.columns"
-        :key="i"
+        v-for="(column, columnIdx) in board.columns"
+        :key="columnIdx"
         v-masonry-tile
         justify-center
         pt-5
@@ -27,14 +27,14 @@
           </v-container>
           <draggable :list="column.tasks" :animation="200" ghost-class="ghost-card" group="tasks" @end="updateBoard">
             <task-card
-              v-for="(task) in column.tasks"
+              v-for="task in column.tasks"
               :key="task.date"
               :task="task"
               :types="board.types"
               class="mt-3 cursor-move"
             />
           </draggable>
-          <v-list-item><new-item /></v-list-item>
+          <v-list-item><new-item :column-idx="columnIdx" /></v-list-item>
         </v-card>
       </v-layout>
     </v-container>
@@ -59,15 +59,15 @@ export default {
     NewColumn
   },
 
-  created () {
-    this.loadBoards()
-  },
-
   computed: {
     ...mapFields('kanban', [
       'boards',
       'board'
     ])
+  },
+
+  created () {
+    this.loadBoards()
   },
 
   methods: {

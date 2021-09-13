@@ -42,10 +42,11 @@
             >
               <v-select
                 v-if="board"
+                ref="vSelect"
                 v-model="item.type"
                 :items="board.types"
                 item-text="title"
-                label="Type"
+                label="Label"
               >
                 <template #append-item>
                   <v-divider class="mb-2" />
@@ -86,6 +87,13 @@ export default {
     NewType
   },
 
+  props: {
+    columnIdx: {
+      type: Number,
+      default: 0
+    }
+  },
+
   data () {
     return {
       dialog: false,
@@ -97,12 +105,21 @@ export default {
     ...mapFields('kanban', ['boards', 'board'])
   },
 
+  watch: {
+    board (oldBoard, newBoard) {
+      if (this.$refs.vSelect) {
+        this.item.type = newBoard.types[newBoard.types.length - 1].title
+        this.$refs.vSelect.blur()
+      }
+    }
+  },
+
   methods: {
     ...mapActions('kanban', ['addItem']),
 
     newItem () {
       this.item.date = new Date()
-      this.addItem(this.item)
+      this.addItem({ item: this.item, columnIdx: this.columnIdx })
       this.item = {}
       this.dialog = false
     }

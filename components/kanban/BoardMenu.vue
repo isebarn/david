@@ -10,7 +10,7 @@
         v-on="on"
       >
         <v-icon>mdi-chart-bubble</v-icon>
-        Menu
+        {{ board ? board.name : "Boards" }}
         <v-icon>mdi-chevron-down</v-icon>
       </v-btn>
     </template>
@@ -35,7 +35,7 @@
               v-for="item in boards"
               :key="item._id"
               :value="item"
-              @click="setBoard(item); dialog = false"
+              @click="setBoard(item)"
             >
               <v-list-item-content>
                 <v-list-item-title v-text="item.name" />
@@ -80,6 +80,14 @@ export default {
 
   computed: {
     ...mapFields('kanban', ['boards', 'board'])
+  },
+
+  watch: {
+    board (newValue, oldValue) {
+      if (oldValue && newValue._id !== oldValue._id) {
+        this.dialog = false
+      }
+    }
   },
 
   methods: {
