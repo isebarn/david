@@ -3,7 +3,7 @@ require('dotenv').config()
 
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
-  ssr: true,
+  ssr: false,
   head: {
     titleTemplate: '%s - david',
     title: 'david',
