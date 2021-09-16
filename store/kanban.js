@@ -56,7 +56,7 @@ export const actions = {
       board: state.board
     }).then((response) => {
     }).finally(() => {
-      dispatch('loadBoards')
+      dispatch('loadBoards', state.board._id)
     })
   },
 
